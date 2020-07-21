@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qCL1CmKTpG1v6Yl7WOkpR4qUlWZIIDQDQpTMiGYk1kzifZoIMdcprVWEUzt+9p5dHYXi6EdjGdQkKdIn1BsSVw==",
+  "success": true,
+  "projectFilePath": "/Users/apple/Desktop/Örnekler/FirebasePushNotification/Firebase.NetCoreApi/Notification/Notification/Notification.csproj",
+  "expectedPackageFiles": [
+    "/Users/apple/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
